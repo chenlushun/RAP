@@ -84,6 +84,10 @@ RAP通过GUI工具帮助WEB工程师更高效的管理接口文档，同时通�
 * THX开源工具集: [http://thx.github.io/](http://thx.github.io/)
 * 作者微博：[@Bosn](http://weibo.com/bosn)
 
+## Use docker create db
+
+    docker-compose up -d  docker－compose.yml
+
 ## RAP的客户
 * 阿里巴巴集团
 * 蚂蚁金服
